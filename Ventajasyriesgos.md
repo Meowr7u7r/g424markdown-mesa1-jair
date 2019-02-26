@@ -1,5 +1,7 @@
 # **INTELIGENCIA ARTIFICIAL**
-## Ventajas y riesgos
+
+![](http://r67.cooltext.com/rendered/cooltext316354674377914.png)
+
 Expertos han dado  imagen a lo nuevo en inteligencia artificial, un reto historico por generaciones , con el proposito de atender las nuestras necesidades.
 **¿Es una bendición o una perdición para el futuro de la existencia humana?**
 La idea misma de crear una inteligencia artificial es facilitar la vida de los seres humanos. Los investigadores de la inteligencia artificial quieren introducir el cociente emocional en las máquinas junto con la inteligencia general.
