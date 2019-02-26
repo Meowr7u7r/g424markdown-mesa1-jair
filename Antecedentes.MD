@@ -1,5 +1,5 @@
-# Los origenes de la Inteligencia Artificial
-## La era Dorada
+# ![](http://r72.cooltext.com/rendered/cooltext316355377883092.png)
+
 
 El inicio de la inetligencia artificil, puede remontarse a hallagos desde 250.ac cuando Ctesibio de Alejandría, construto una maquina 
 autocontrolada, un regulador de flujo de agua, tratandose de u reloj hidraulico
