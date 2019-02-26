@@ -52,4 +52,4 @@ Estos no son el punto fuerte de la inteligencia artificial. Si bien pueden ayuda
 
 ![Resultado de imagen para inteligencia artificial ventajas y desventajas](https://www.quierotec.com/wp-content/uploads/2018/07/Ventajas-de-la-Inteligencia-Artificial.jpg)
 
-[Menu principal](readme.md)
+[Menu principal](README.md)
