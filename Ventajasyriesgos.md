@@ -46,4 +46,8 @@ A diferencia de los humanos, la inteligencia artificial no puede mejorarse con l
 #### *Sin creatividad original*
 ¿Quieres creatividad o imaginación?
 Estos no son el punto fuerte de la inteligencia artificial. Si bien pueden ayudarle a diseñar y crear, no pueden competir con el poder de pensar que tiene el cerebro humano, ni siquiera con la originalidad de una mente creativa.
+
+[Mira el siguiente video para más informacion](https://www.youtube.com/watch?v=146E63k-NSI)
+
+
 ![Resultado de imagen para inteligencia artificial ventajas y desventajas](https://www.quierotec.com/wp-content/uploads/2018/07/Ventajas-de-la-Inteligencia-Artificial.jpg)
