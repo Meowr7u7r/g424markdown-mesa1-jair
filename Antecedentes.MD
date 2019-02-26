@@ -5,7 +5,7 @@ El inicio de la inetligencia artificil, puede remontarse a hallagos desde 250.ac
 autocontrolada, un regulador de flujo de agua, tratandose de u reloj hidraulico
 
 ![Resultado de imagen para clepsidra](http://quhist.com/wp-content/uploads/2009/06/clepsidra.jpg)
-## *1956 el comienzo de la era dorada*
+## ![](http://r52.cooltext.com/rendered/cooltext316355836461725.png)
 
 Fue ya en 1956 cuando John McCarthy, Marvin Minsky y Claude Shannon acuñaron este término durante la conferencia de Darthmounth
 para referirse a “la ciencia e ingenio de hacer máquinas inteligentes, especialmente programas de cálculo inteligentes”.  
@@ -33,7 +33,7 @@ ciencia, tomando como hipótesis de trabajo la proposición: "Todo aspecto de ap
 o cualquier otra característica de inteligencia puede ser definido de forma tan precisa que
 puede construirse una máquina para simularlo“.
 
-### _En 1847 George Boole establecío la logica propocisional_ 
+### ![](http://r69.cooltext.com/rendered/cooltext316355952536508.png)
  
  Esta lógica se puede aplicar a dos campos:
 
@@ -87,4 +87,4 @@ al Chatbot más humano en 2000,2001 y 2004, y en 2007 el programa Ultra Hal Assi
  ![Resultado de imagen para chatbot humano en el 2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpjgGbyg3JEPB6Q1xs-e_hA8TmBdcAZvfoV5ebBjy3rcFF13T)
 
 
- 
+ [Menu principal](readme.md)
