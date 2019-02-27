@@ -1,3 +1,4 @@
+
 # ![](http://r72.cooltext.com/rendered/cooltext316355377883092.png)
 
 
@@ -86,5 +87,5 @@ al Chatbot más humano en 2000,2001 y 2004, y en 2007 el programa Ultra Hal Assi
  
  ![Resultado de imagen para chatbot humano en el 2000](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpjgGbyg3JEPB6Q1xs-e_hA8TmBdcAZvfoV5ebBjy3rcFF13T)
 
-
+<a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
  [Menu principal](readme.md)
