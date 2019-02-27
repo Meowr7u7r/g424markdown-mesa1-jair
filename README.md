@@ -1,14 +1,14 @@
-Integrantes:
+**Integrantes:**
 
-Hernandez García Johana A.
+-Hernandez García Johana A.
 
-Valancia Cota Roberto
+-Valancia Cota Roberto
 
-Villegas Bautista Z.Aquetzali
+-Villegas Bautista Z.Aquetzali
 
-Zamorano Carballo Irene
+-Zamorano Carballo Irene
 
-Mesa #1
+**Mesa #1**
 
 [Definición](definicion.md)
 
