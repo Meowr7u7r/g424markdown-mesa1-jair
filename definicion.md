@@ -1,8 +1,8 @@
 ![](http://r73.cooltext.com/rendered/cooltext316356997428009.png)
 
-## Definicion 
+## ![](http://r52.cooltext.com/rendered/cooltext316467165062792.png)
 La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
-## Aplicaciones 
+## ![](http://r74.cooltext.com/rendered/cooltext316467525411713.png)
 La IA está presente en la detección facial de los móviles, en los asistentes virtuales de voz como Siri de Apple, Alexa de Amazon o Cortana de Microsoft y está integrada en nuestros dispositivos cotidianos a través de bots (abreviatura de robots) o aplicaciones para móvil, tales como: LyliEnlace externo, se abre en ventana nueva., un personal shopper en versión digital; ParlaEnlace externo, se abre en ventana nueva., concebida para ayudarnos con el aprendizaje de idiomas; EmsEnlace externo, se abre en ventana nueva., diseñada para hacernos un poco más llevadera la ardua tarea de encontrar nuevo piso; o GyantEnlace externo, se abre en ventana nueva., un asistente virtual de Facebook que emite 'diagnósticos' médicos. El objetivo de todas ellas: hacer más fácil la vida de las personas.
 
 Los avances en IA ya están impulsando el uso del big data debido a su habilidad para procesar ingentes cantidades de datos y proporcionar ventajas comunicacionales, comerciales y empresariales que la han llevado a posicionarse como la tecnología esencial de las próximas décadas. Transporte, educación, sanidad, cultura... ningún sector se resistirá a sus encantos.
