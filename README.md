@@ -1,3 +1,13 @@
+Integrantes:
+
+Hernandez García Johana A.
+
+Valancia Cota Roberto
+
+Villegas Bautista Z.Aquetzali
+
+Zamorano Carballo Irene
+
 Mesa #1
 
 [Definición](definicion.md)
