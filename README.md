@@ -15,3 +15,5 @@
 [Antecedentes](Antecedentes.md)
 
 [Lo más nuevo](lomasnuevo.md)
+
+[Ventajas y desventajas](ventajasyriesgos.md)
