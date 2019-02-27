@@ -1,12 +1,12 @@
 ![](http://r74.cooltext.com/rendered/cooltext316466992815721.gif)
-## Lo mas nuevo
+## ![](https://images.cooltext.com/5261020.png)
 Aunque la Inteligencia Artificial (IA) ya forma parte de nuestras vidas, aún resulta extraño oír hablar de ella en ámbitos como el de la educación, donde la realidad de las aulas avanza a un ritmo mucho más pausado que el de la tecnología. Sin embargo, es precisamente el campo educativo uno de los que más podría verse reforzado y transformado gracias a los nuevos sistemas de inteligencia artificial y su capacidad para contribuir a la personalización del aprendizaje. Así lo cree un grupo de investigadores y académicos que, avalados por la Universidad de Standford, publicaron el pasado mes de septiembre el informe Artificial Intelligence and Life in 2030. Según el estudio, la realidad virtual, el aprendizaje adaptativo, la analítica del aprendizaje (learning analitycs) y la enseñanza online serán habituales en las aulas en tan solo quince años.
-## Formas de educacion con la inteligencia artificial.
-## Realidad virtual: 
+## ![](https://images.cooltext.com/5261021.png).
+## ![](https://images.cooltext.com/5261024.png)
 en la actualidad ya se usan entornos de realidad virtual que permiten a los alumnos interactuar con distintos ambientes y objetos. Los expertos creen que en 2030 estos entornos sean más generales y sofisticados, de modo que los estudiantes podrán sumergirse en ellos para explorar asignaturas de distintas disciplinas. “La recreación de mundos pasados y ficticios será tan popular en el estudio de las artes como en el de otras ciencias”, señalan.
-## Robótica educativa: 
+## ![](https://images.cooltext.com/5261026.png)
 desde que Lego desarrollara en los años ochenta sus primeros kits de robótica bajo la marca Mindstorms, se han lanzado al mercado numerosos modelos destinados a promover distintas áreas del aprendizaje. Ozobot, Cubelets o Dash and Dot permiten a los alumnos crear y programar sus propios robots a la vez que desarrollan el pensamiento lógico y deductivo y la creatividad. Los expertos, sin embargo, creen que la robótica educativa solo encontrará su sitio en las aulas si se demuestra que, además de motivar a los alumnos, mejora sus resultados académicos.
-## Sistemas de tutoría inteligente:
+## ![](https://images.cooltext.com/5261031.png):
 Sistemas de tutoría inteligente: el desarrollo de algunas tecnologías de IA, como el reconocimiento automático de habla (RAH) y el procesamiento de lenguajes naturales (PLN), ha facilitado el desarrollo de los sistemas de tutoría inteligente, que han pasado rápidamente del laboratorio al uso real. Estos tutores cognitivos imitan el rol del profesor y guían el aprendizaje y la ejercitación en distintas disciplinas. Ofrecen pistas a los estudiantes cuando están atascados en un problema, les proporcionan un feedback inmediato en función de sus errores o respuestas, e incluso diseñan secuencias de aprendizaje personalizadas para cada alumno. Sus aplicaciones son muchas y se han traducido en distintas herramientas de aprendizaje adaptativo.
-## Sistemas de aprendizaje online: 
+## ![](https://images.cooltext.com/5261033.png): 
 el informe califica de “sorprendente” la “explosión de los MOOC y de otros modelos de educación online en todos los niveles educativos”. Estos han logrado expandir el tamaño del aula y dar cabida a miles de estudiantes, que pueden ser evaluados más fácilmente gracias a las tecnologías de inteligencia artificial. De hecho, ya existen programas que generan preguntas de manera automática y evalúan preguntas de respuesta corta y abierta. Según el informe, esta tendencia se consolidará y perfeccionará hacia 2030.
