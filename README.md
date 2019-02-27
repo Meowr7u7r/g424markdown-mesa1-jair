@@ -16,4 +16,4 @@
 
 [Lo más nuevo](lomasnuevo.md)
 
-[Ventajas y desventajas](ventajasyriesgos.md)
+[Ventajas y desventajas](Ventajasyriesgos.md)
